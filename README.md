@@ -10,7 +10,7 @@ A [PyRatatui](https://github.com/pyratatui/pyratatui) terminal UI application.
 
 ```bash
 # Clone and run directly
-git clone https://github.com/programmersd/pomo.git
+git clone https://github.com/programmersd21/pomo.git
 cd pomo
 pip install .
 python main.py
@@ -19,7 +19,7 @@ python main.py
 Or install it with the PyRatatui app manager:
 
 ```bash
-pyratatui install programmersd/pomo
+pyratatui install programmersd21/pomo
 pyratatui run pomo
 ```
 
